@@ -12,7 +12,7 @@ export default function NavBar() {
             <div className="flex items-center justify-between py-3 md:py-5 md:block">
      
               <Link href="/">
-                <h2><span className="bg-indigo-500 text-white rounded-md px-1 py-1 ">Gym</span>baran</h2>
+                <h2 className='font-base'><span className="bg-indigo-500 text-white rounded-md px-1 py-1 ">Gym</span>baran</h2>
               </Link>
    
               <div className="md:hidden">
@@ -64,7 +64,7 @@ export default function NavBar() {
                   </Link>
                 </li>
                 <li>
-                <Link href="#" class="bg-blue-900 text-white px-6 py-2 rounded-md text-m font-medium" aria-current="page">Log in</Link>
+                <Link href="#" class="drop-shadow-2xl bg-blue-900 text-white px-6 py-2 rounded-md text-m font-medium" aria-current="page">Log in</Link>
                 </li>
               </ul>
             </div>
