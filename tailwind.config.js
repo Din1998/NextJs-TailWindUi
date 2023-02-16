@@ -10,6 +10,9 @@ module.exports = {
   ],
   theme: {
     extend: {},
+    fontFamily:{
+      base: ['Josefin Sans', 'sans-serif']
+    }
   },
   plugins: [],
 }
