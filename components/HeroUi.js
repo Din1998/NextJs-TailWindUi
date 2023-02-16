@@ -6,7 +6,7 @@ export default function HeroUi() {
   return(
     <div className={styles.heroUi}>
       <div className="container mx-auto grid lg:grid-cols-2 md:grid-cols-2 sm:grid-cols-2">
-          <div className=" flex justify-center">
+          <div className="flex justify-center">
           <div className='py-20 px-30'>
             <h1 className='py-4 text-5xl font-bold font-mono'>Healthy in side <span className='text-indigo-500'>fresh</span> out side</h1>
             <p className='text-neutral-600 py-4 '>Exercise is a very important need for our body. Health and fitness will be obtained if you can do regular exercise and run a healthy routine.</p>

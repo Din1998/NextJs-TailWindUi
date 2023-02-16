@@ -5,6 +5,7 @@ import styles from '@/styles/Home.module.css'
 import Link from 'next/link'
 import Layout from 'Layouts/Layout'
 import HeroUi from 'components/HeroUi'
+import TextBox from 'components/TextBox'
 
 
 const inter = Inter({ subsets: ['latin'] })
@@ -14,7 +15,7 @@ export default function Home() {
     <>
       <Layout>
         <HeroUi />
-        
+        <TextBox />
       </Layout>
     </>
   )
