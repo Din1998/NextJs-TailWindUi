@@ -5,7 +5,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 export default function BestBodyBox(){
   return(
     <div className='py-20 '>
-      <div className="container mx-auto grid lg:grid-cols-2 md:grid-cols-2 sm:grid-cols-2 flex justify-items-center">
+      <div className="container mx-auto grid lg:grid-cols-2 md:grid-cols-2 justify-items-center">
         <Image
        
         width={340}
