@@ -43,11 +43,11 @@ export default function HeroUi() {
           
           <div className="flex justify-center py-20">
             <Image
-            className='drop-shadow-2xl'
-            width={260}
+
+            width={320}
             height={200}
             alt="logo"
-            src="/image77.png" />
+            src="/image79.png" />
           </div>
         
       </div>
