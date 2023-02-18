@@ -8,9 +8,9 @@ export default function BestBodyBox(){
       <div className="container mx-auto grid lg:grid-cols-2 md:grid-cols-2 sm:grid-cols-2 flex justify-items-center">
         <Image
        
-        width={300}
+        width={340}
         height={460}
-        src='/image78.png'
+        src='/image80.png'
         />
         <div className='px-8'>
           <h1 className='py-8 text-5xl font-base'>Best full body workout to lose fat</h1>
